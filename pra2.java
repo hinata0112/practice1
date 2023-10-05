@@ -1,1 +1,6 @@
-Hello World
+pubiric class practice{
+	pubric static void main (String[] args){
+		for (int cnt = 0; cnt <= 100; cnt++)
+		System.out.println ("Hello World");
+	}
+}
